@@ -1,0 +1,16 @@
+{
+    "name": "cloudinary-api-delete",
+    "version": "1.0.0",
+    "description": "API para eliminar imágenes de Cloudinary",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "dotenv": "^10.0.0",
+      "cloudinary": "^1.27.1"
+    }
+  }
+  
